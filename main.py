@@ -15,7 +15,6 @@ def calculator(a: float, b:float) -> str:
     return f"the sum of {a} and {b} is {a+b}"
 
 
-
 def main():
     model = ChatOpenAI(temperature=0)
     
