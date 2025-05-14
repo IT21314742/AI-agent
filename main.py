@@ -19,6 +19,7 @@ def calculator(a: float, b:float) -> str:
 
 
 
+
 def main():
     model = ChatOpenAI(temperature=0)
     
