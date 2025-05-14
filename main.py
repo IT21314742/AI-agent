@@ -11,3 +11,6 @@ load_dotenv()
 
 def main():
     model = ChatOpenAI(temperature=0)
+    
+    tools = []
+    agent_executor = create_react_agent
