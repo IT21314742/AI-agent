@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 @tool
-def calculator(a: float, b:float) ->
+def calculator(a: float, b:float) -> str:
 
 def main():
     model = ChatOpenAI(temperature=0)
