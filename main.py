@@ -7,3 +7,6 @@ from dotenv import load_dotenv
 
 ## Langchain is high level framework that allows us to build ai applications
 
+load_dotenv()
+
+
