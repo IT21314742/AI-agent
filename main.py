@@ -12,6 +12,7 @@ load_dotenv()
 @tool
 def calculator(a: float, b:float) -> str:
     """Usefull for performing basic arithmatic calculations with  numbers"""
+    return f"the sum of "
 
 def main():
     model = ChatOpenAI(temperature=0)
