@@ -24,3 +24,8 @@ def main():
         if user_input == "quit":
             break
         
+        print("\nAssistant: ", end="")
+        for chunk in agent_executor.stream(
+            {"messages": [HumanMessage(content=user_input)]}
+        )
+        
