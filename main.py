@@ -17,3 +17,7 @@ def main():
     
     print("Welcome! I'm your AI assistant. Type 'Quit' to exit. ")
     print("You can ask me to perform calculations or chat with me. ")
+    
+    while True:
+        user_input = input("You: ").strip()
+        
