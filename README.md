@@ -18,3 +18,17 @@ The goals of this project are to:
 - Provide a clear, extensible agent architecture
 
 ---
+
+## 🧠 How the Agent Works
+
+The agent follows the **ReAct (Reason + Act)** paradigm:
+
+1. The user provides input through the terminal
+2. The LLM reasons about the intent of the input
+3. The agent decides whether to respond directly or invoke a tool
+4. Tool outputs are incorporated into the final response
+5. The response is streamed back to the user in real time
+
+LangGraph manages the ReAct execution flow, while LangChain provides abstractions for models, tools, and message handling.
+
+---
