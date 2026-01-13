@@ -69,3 +69,14 @@ The project includes a simple calculator tool that:
 This tool demonstrates how agents can decide when to act versus when to respond directly.
 
 ---
+
+
+## 🛠️ Technology Stack
+
+- **Python 3.10+**
+- **LangChain**
+- **LangGraph**
+- **OpenAI API**
+- **python-dotenv**
+
+---
