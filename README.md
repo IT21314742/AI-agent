@@ -114,3 +114,11 @@ pip install -r requirements.txt
 ```
 OPENAI_API_KEY=your_openai_key
 ```
+
+
+## ▶️ Usage
+
+### Run the agent from the terminal:
+```
+python main.py
+```
