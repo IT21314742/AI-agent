@@ -44,3 +44,15 @@ LangGraph manages the ReAct execution flow, while LangChain provides abstraction
 This diagram illustrates the high-level architecture of the AI agent. The user interacts with the agent through a command-line interface. The agent coordinates reasoning using an OpenAI language model and can optionally invoke tools (such as a calculator) before returning responses to the user.
 
 ---
+
+
+## 🛠️ Features
+
+- Interactive CLI-based chat interface
+- ReAct-style reasoning using LangGraph
+- Tool support via LangChain decorators
+- Streaming responses for conversational interaction
+- Environment-based configuration using dotenv
+- Minimal, readable, and extensible codebase
+
+---
