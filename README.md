@@ -32,3 +32,15 @@ The agent follows the **ReAct (Reason + Act)** paradigm:
 LangGraph manages the ReAct execution flow, while LangChain provides abstractions for models, tools, and message handling.
 
 ---
+
+
+
+## 🏗️ System Architecture
+
+![System Architecture](diagrams/system_architecture.png)
+
+**System Architecture Overview**
+
+This diagram illustrates the high-level architecture of the AI agent. The user interacts with the agent through a command-line interface. The agent coordinates reasoning using an OpenAI language model and can optionally invoke tools (such as a calculator) before returning responses to the user.
+
+---
