@@ -95,3 +95,11 @@ This tool demonstrates how agents can decide when to act versus when to respond 
 ├── requirements.txt
 └── README.md
 ```
+
+
+## 📦 Installation
+
+### Clone the repository:
+
+git clone (https://github.com/IT21314742/AI-agent.git)
+cd AI-agent
