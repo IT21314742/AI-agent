@@ -123,3 +123,8 @@ OPENAI_API_KEY=your_openai_key
 python main.py
 ```
 You can interact with the assistant in real time.
+
+### To exit the session:
+```
+quit
+```
