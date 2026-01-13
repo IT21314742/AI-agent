@@ -155,3 +155,9 @@ Assistant: An AI agent is a system that can perceive input, reason about it, and
 - Switching to different LLM providers
 
 - Building a web or API interface
+
+
+## 🤝 Contributing
+
+Contributions, issues, and suggestions are welcome.
+This project serves as a foundational example for developers exploring AI agents, LLM reasoning, and tool-augmented systems.
