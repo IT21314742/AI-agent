@@ -128,3 +128,14 @@ You can interact with the assistant in real time.
 ```
 quit
 ```
+
+
+## 💬 Example Interaction
+```
+You: What is 8 plus 12?
+Assistant: The sum of 8 and 12 is 20
+```
+```
+You: What is an AI agent?
+Assistant: An AI agent is a system that can perceive input, reason about it, and take actions to achieve a goal..
+```
