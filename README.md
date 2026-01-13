@@ -139,3 +139,19 @@ Assistant: The sum of 8 and 12 is 20
 You: What is an AI agent?
 Assistant: An AI agent is a system that can perceive input, reason about it, and take actions to achieve a goal..
 ```
+
+
+
+## 🧱 Extensibility
+
+### This project is intentionally simple and designed for extension. Possible enhancements include:
+
+- Adding additional tools
+
+- Introducing conversational memory
+
+- Supporting multiple tools or agents
+
+- Switching to different LLM providers
+
+- Building a web or API interface
