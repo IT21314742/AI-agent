@@ -105,7 +105,12 @@ This tool demonstrates how agents can decide when to act versus when to respond 
 - cd AI-agent
 
 
-## Install dependencies:
+### Install dependencies:
 ```
 pip install -r requirements.txt
+```
+
+### Create a .env file and add your OpenAI API key:
+```
+OPENAI_API_KEY=your_openai_key
 ```
