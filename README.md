@@ -80,3 +80,18 @@ This tool demonstrates how agents can decide when to act versus when to respond 
 - **python-dotenv**
 
 ---
+
+
+
+## 📁 Project Structure
+
+```text
+.
+├── main.py          # Agent entry point
+├── diagrams/
+│   ├── system_architecture.png
+│   └── runtime_sequence.png
+├── .env.example
+├── requirements.txt
+└── README.md
+```
