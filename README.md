@@ -56,3 +56,16 @@ This diagram illustrates the high-level architecture of the AI agent. The user i
 - Minimal, readable, and extensible codebase
 
 ---
+
+
+## 🧩 Example Tool: Calculator
+
+The project includes a simple calculator tool that:
+
+- Accepts two numeric inputs
+- Performs basic arithmetic
+- Returns results in natural language
+
+This tool demonstrates how agents can decide when to act versus when to respond directly.
+
+---
